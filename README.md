@@ -1,2 +1,2 @@
-# MySQL_proiect
-Proiectarea unei baze de date in MySQL pentru Jocurile Olimpice de Iarna. Proiectul consta in partea pur teoretica de priectare a unei baze de date trecand prin conceperea unei diagrame, dezvoltarea si in final implimentarea acesteia.
+# DB for Winter Olympic Games
+Designing a database using MySQL for Winter Olympic Games. The project is focused on the back-end part of the DB, from the entity-relationship model, its development and finally the implementation of the model in MySQL code.
